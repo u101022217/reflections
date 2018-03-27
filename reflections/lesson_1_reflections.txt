@@ -1,0 +1,4 @@
+We can have more efficiency by doing this,because of visiting old version ans see what we have done before.
+We get more flexible selections by git but may have some mistake due to human errors. 
+Submitting like google docs which submit automatically for routine will not miss any modification. However,it may submit too frequently so that it hard to read. 
+I don't know.
